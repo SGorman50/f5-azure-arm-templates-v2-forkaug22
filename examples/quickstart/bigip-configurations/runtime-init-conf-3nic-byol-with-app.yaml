@@ -95,7 +95,7 @@ extension_services:
           My_License:
             class: License
             licenseType: regKey
-            regKey: AAAAA-BBBBB-CCCCC-DDDDD-EEEEEEE
+            regKey: SCMQC-JWJUJ-MTTXZ-YOFLU-AZHEMWA
           My_Ntp:
             class: NTP
             servers:
